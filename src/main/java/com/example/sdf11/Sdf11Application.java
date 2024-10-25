@@ -10,6 +10,6 @@ public class Sdf11Application {
 		SpringApplication.run(Sdf11Application.class, args);
 	}
 public String sayHi(){
-		return "Hi";
+		return "Hello";
 }
 }
